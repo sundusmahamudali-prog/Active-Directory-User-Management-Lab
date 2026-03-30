@@ -26,17 +26,15 @@ This project demonstrates the implementation of a centralized identity managemen
 *   Assigned **Full Control** permissions to specific Security Groups, demonstrating the principle of least privilege and group-based access control.
 
 ## 📸 Lab Evidence
-*(Note: Replace these placeholders with your actual screenshots stored in an /images folder)*
 
 ### User Creation
-![User Setup](images/setting up user.png)
+![User Setup](setting%20up%20user.png)
 
 ### Group Membership
-![Group Members](images/setting up group.png)
+![Group Members](setting%20up%20group.png)
 
 ### Permission Configuration
-![Share Permissions](images/permissions.png)
-
+![Share Permissions](permissions.png)
 ## 💡 Key Takeaways
 *   **Scalability:** Learned how Security Groups simplify the process of managing hundreds of users.
 *   **Security:** Practiced removing "Everyone" from share permissions to ensure data integrity.
