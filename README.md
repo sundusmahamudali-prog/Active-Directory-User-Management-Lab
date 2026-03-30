@@ -29,13 +29,13 @@ This project demonstrates the implementation of a centralized identity managemen
 *(Note: Replace these placeholders with your actual screenshots stored in an /images folder)*
 
 ### User Creation
-![User Setup](images/task1_user_setup.png)
+![User Setup](images/setting up user.png)
 
 ### Group Membership
-![Group Members](images/task3_group_members.png)
+![Group Members](images/setting up group.png)
 
 ### Permission Configuration
-![Share Permissions](images/share_permissions.png)
+![Share Permissions](images/permissions.png)
 
 ## 💡 Key Takeaways
 *   **Scalability:** Learned how Security Groups simplify the process of managing hundreds of users.
